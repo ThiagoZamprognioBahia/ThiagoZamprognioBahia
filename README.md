@@ -1,7 +1,9 @@
 👋 Hello world, I'm Thiago!
 
 🌐 Full-stack developer, passionate about turning ideas into code.
+
 💬 I'm here to help and learn!
+
 🏔️ Lover of a good adventure.
 
 💻 Technologies I love:
